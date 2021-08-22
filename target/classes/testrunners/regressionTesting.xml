@@ -1,0 +1,13 @@
+<suite name="Regression_Suite_Tests" >
+
+<test name="Regression Test Results">
+
+<classes>
+
+<class name="com.qa.facebook.tests.LoginPageTest"></class>
+
+</classes>
+
+</test>
+
+</suite>

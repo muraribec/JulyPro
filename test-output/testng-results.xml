@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression_Suite_Tests" duration-ms="124620" started-at="2021-08-18T01:47:04Z" finished-at="2021-08-18T01:49:08Z">
+    <groups>
+    </groups>
+    <test name="Regression Test Results" duration-ms="124620" started-at="2021-08-18T01:47:04Z" finished-at="2021-08-18T01:49:08Z">
+      <class name="com.qa.facebook.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="14571" started-at="2021-08-18T01:47:05Z" finished-at="2021-08-18T01:47:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="createNewContactTest" duration-ms="423" started-at="2021-08-18T01:47:19Z" data-provider="getContactsData" finished-at="2021-08-18T01:47:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="4414" started-at="2021-08-18T01:47:20Z" finished-at="2021-08-18T01:47:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="12531" started-at="2021-08-18T01:47:24Z" finished-at="2021-08-18T01:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="createNewContactTest" duration-ms="444" started-at="2021-08-18T01:47:37Z" data-provider="getContactsData" finished-at="2021-08-18T01:47:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sita]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="647" started-at="2021-08-18T01:47:37Z" finished-at="2021-08-18T01:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="13042" started-at="2021-08-18T01:47:38Z" finished-at="2021-08-18T01:47:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="createNewContactTest" duration-ms="414" started-at="2021-08-18T01:47:51Z" data-provider="getContactsData" finished-at="2021-08-18T01:47:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[laxman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="545" started-at="2021-08-18T01:47:51Z" finished-at="2021-08-18T01:47:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="12685" started-at="2021-08-18T01:47:52Z" finished-at="2021-08-18T01:48:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="createNewContactTest" duration-ms="404" started-at="2021-08-18T01:48:04Z" data-provider="getContactsData" finished-at="2021-08-18T01:48:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vivaan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="510" started-at="2021-08-18T01:48:05Z" finished-at="2021-08-18T01:48:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="12578" started-at="2021-08-18T01:48:05Z" finished-at="2021-08-18T01:48:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="createNewContactTest" duration-ms="412" started-at="2021-08-18T01:48:18Z" data-provider="getContactsData" finished-at="2021-08-18T01:48:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[murari]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="680" started-at="2021-08-18T01:48:18Z" finished-at="2021-08-18T01:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="12884" started-at="2021-08-18T01:48:19Z" finished-at="2021-08-18T01:48:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="createNewContactTest" duration-ms="390" started-at="2021-08-18T01:48:32Z" data-provider="getContactsData" finished-at="2021-08-18T01:48:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="568" started-at="2021-08-18T01:48:32Z" finished-at="2021-08-18T01:48:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="12730" started-at="2021-08-18T01:48:33Z" finished-at="2021-08-18T01:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="createNewContactTest" duration-ms="411" started-at="2021-08-18T01:48:46Z" data-provider="getContactsData" finished-at="2021-08-18T01:48:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="4359" started-at="2021-08-18T01:48:46Z" finished-at="2021-08-18T01:48:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="13118" started-at="2021-08-18T01:48:50Z" finished-at="2021-08-18T01:49:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="createNewContactTest" duration-ms="398" started-at="2021-08-18T01:49:04Z" data-provider="getContactsData" finished-at="2021-08-18T01:49:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebook.tests.LoginPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="4280" started-at="2021-08-18T01:49:04Z" finished-at="2021-08-18T01:49:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.facebook.tests.LoginPageTest -->
+    </test> <!-- Regression Test Results -->
+  </suite> <!-- Regression_Suite_Tests -->
+</testng-results>
